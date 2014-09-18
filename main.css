@@ -1,0 +1,70 @@
+html {
+  background: url(http://backgrounds.picaboo.com/download/47/7e/47efddeed9cf4869a2ecae084bbada1d/old%20table.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.textcenter {
+		 background: url(http://i184.photobucket.com/albums/x15/dclark2134/wallpaper_Theme002.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	text-align:center;
+	display:inline-block;
+	
+	
+		 width: 49%;
+		 /* margin: auto; */
+		 margin:auto;
+		
+		 position: relative;
+		 left: 25%;
+}
+
+
+.center {
+	width:100%;
+}
+
+
+.form {
+	display:inline;
+}
+
+.need {
+	 background: url(http://i184.photobucket.com/albums/x15/dclark2134/wallpaper_Theme002.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	float:center;
+	border:1px solid black;
+	width:49%;
+	max-height: 800px;
+	min-height: 500px;
+	margin: auto;
+}
+
+
+.total {
+float:right;
+}
+
+h2 {
+	text-align:center;
+	border:1px solid black;
+	background:gold;
+}
+
+.strike {
+	text-decoration:line-through;
+}
+
+.item {
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+}
